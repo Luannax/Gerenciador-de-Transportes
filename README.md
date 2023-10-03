@@ -38,7 +38,7 @@
 6. Ou você pode entrar direito no link a direita para entrar no site.
 
 
-<h3>Ferramentas e Linguagens usadas:</h3>
+<h3>Ferramentas e Linguagens usadas</h3><p>:</p>
 
 - Vscode
 - GitHub
@@ -47,6 +47,7 @@
 - Css
 - HTML
 - JavaScript
+
 
 <h3>Exemplos de uso</h3>
 
