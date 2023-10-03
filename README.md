@@ -38,6 +38,15 @@
 6. Ou você pode entrar direito no link a direita para entrar no site.
 
 
+<h3>Ferramentas e Linguagens usadas:</h3>
+- Vscode
+- GitHub
+- Git Bash
+- Bootstrap
+- Css
+- HTML
+- JavaScript
+
 <h3>Exemplos de uso</h3>
 
 <p>O Gerenciador de Transportes pode ser usado para gerenciar as seguintes informações sobre transportes:</p>
