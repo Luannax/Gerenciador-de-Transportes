@@ -38,8 +38,8 @@
 6. Ou você pode entrar direito no link a direita para entrar no site.
 
 
-<h3>Ferramentas e Linguagens usadas</h3><p>:</p>
-
+<h3>Ferramentas e Linguagens usadas:</h3>
+<p></p>
 - Vscode
 - GitHub
 - Git Bash
